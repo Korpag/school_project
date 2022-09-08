@@ -34,6 +34,6 @@ flutter run
 
 ##
 
-#### Особая благодарность за дизайн - <a href="https://github.com/ba6a-yaga" target="_blank">Roman Padalko</a>.
+#### Разработка UI - <a href="https://github.com/ba6a-yaga" target="_blank">@ba6a-yaga</a>.
 
 ##
